@@ -1,0 +1,24 @@
+{
+    "name": "suresh",
+    "date":"1994-06-15",
+    "dob":"1994-06-15 19:51:26",
+    "colors": [
+        "red",
+        "blue",
+        "green"
+    ],
+    "uid": {
+        "name": "a",
+        "id": "123",
+        "add": "hyd"
+    },
+    "ages":[{
+            "age1":"28",
+            "age2":"29"
+        }],
+    "addrs": {
+        "hno": "1-123",
+        "city": "hyd",
+        "pin": "505524"
+    }
+}

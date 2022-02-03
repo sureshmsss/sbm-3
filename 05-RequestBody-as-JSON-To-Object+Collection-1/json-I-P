@@ -1,0 +1,13 @@
+{
+    "name": "Amazon",
+    "courier": [
+        {
+            "name": "dtdc"
+        }
+    ],
+    "way": [
+        {
+            "name": "netB"
+        }
+    ]
+}
